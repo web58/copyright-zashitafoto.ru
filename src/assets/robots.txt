@@ -10,4 +10,4 @@ User-agent: Yandex
 Allow: /*.js
 Allow: /*.css
 
-Host: https://авторскийзнак.рф/
+Host: https://zashitafoto.ru/
